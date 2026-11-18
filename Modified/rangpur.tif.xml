@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20261114</CreaDate><CreaTime>00470300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20261114" Time="004703">ExtractByMask Rangpur_Urban_Center_Candidate_Binary_1km.tif Rangpur_Urban_Score_6Factor_1km.tif "E:\Geospatial\Urban Center\Urban-Center\File\rangpur.tif"</Process></lineage></DataProperties></Esri></metadata>
